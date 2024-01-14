@@ -1,3 +1,8 @@
 # CSCN8010-labs
-here is my solutiom to CSCN8010 pratical labs
-My name is Fatima and this my first python code
+> Here is my solution to CSCN8010 pratical labs
+
+#### Name
+My name is Fatima AlMusawi and this my first `python code`
+
+#### Class
+```This is the AI Course - CSCN8010```s
