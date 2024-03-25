@@ -134,7 +134,7 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
-
+*.h5
 # mkdocs documentation
 /site
 *.csv
@@ -143,7 +143,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
+data/
 # Pyre type checker
 .pyre/
 
